@@ -1,10 +1,8 @@
 spring:
-  application:
-    name: product
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: root
+    password: mantinghao+7513
     url: jdbc:mysql://localhost:3306/springCloud_sell?characterEncoding=utf8&useSSL=false
   jpa:
     show-sql: true
